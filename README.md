@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Bem-vindo(a) ao meu GitHub! 🌟</h1>
 
 <p align="center">
-  <img src="banner-camila.png" alt="Camila Andrade - Transformando códigos em soluções" width="100%" />
+  <img src="banner-camila.png" alt="Camila Andrade - Transformando códigos em soluções" width="30%" />
 </p>
 
 <p align="center">
