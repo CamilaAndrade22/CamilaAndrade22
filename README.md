@@ -1,6 +1,10 @@
 <h1 align="center">🌟 Bem-vindo(a) ao meu GitHub! 🌟</h1>
 
 <p align="center">
+  <img src="banner-camila.png" alt="Camila Andrade - Transformando códigos em soluções" width="100%" />
+</p>
+
+<p align="center">
 🎓 Estudante de <strong>Ciência da Computação</strong> <br>
 💻 Apaixonada por <strong>tecnologia</strong>, entusiasta de <strong>front-end</strong> e <strong>back-end</strong> <br>
 🚀 Sempre em busca de desafios que me façam crescer como desenvolvedora
@@ -46,5 +50,3 @@
   ✨ Obrigada por visitar meu perfil! ✨ <br>
   <strong>#NeverStopLearning 💡 | #GirlPower 👩‍💻 | #TechLover 💜</strong>
 </p>
-
-
